@@ -160,8 +160,8 @@ Software engineer from Armenia building systems-level tools, scalable backend se
 </a>
 
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=areviksol&show_icons=true&locale=en&layout=compact" alt="areviksol" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=areviksol&show_icons=true&locale=en&layout=compact" alt="areviksol" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=areviksol&show_icons=true&locale=en" alt="areviksol" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=areviksol&show_icons=true&locale=en" alt="areviksol" /></p> --> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=areviksol&" alt="areviksol" /></p>
