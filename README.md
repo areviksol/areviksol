@@ -14,8 +14,6 @@ Software engineer from Armenia building systems-level tools, scalable backend se
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left">
-
 <!-- Machine Learning / Data -->
 <div style="display:flex; flex-wrap:wrap; gap:10px; align-items:center;">
   
@@ -161,7 +159,6 @@ Software engineer from Armenia building systems-level tools, scalable backend se
   <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="40" height="40"/>
   </a>
 </div>
-</p>
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=areviksol&show_icons=true&locale=en&layout=compact" alt="areviksol" /></p>
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=areviksol&show_icons=true&locale=en" alt="areviksol" /></p> --> -->
