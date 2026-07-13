@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arevik</h1>
 
 <h3 align="center">
-Software engineer from Armenia building systems-level tools, scalable backend services, database-driven systems, and machine learning–powered applications.
+Software engineer
 </h3>
 
 <p align="left">
